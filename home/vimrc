@@ -1,0 +1,4 @@
+syntax on
+set expandtab
+filetype on
+filetype plugin on
